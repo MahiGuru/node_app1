@@ -4,4 +4,4 @@ var http = require("http").createServer(function(req, res){
 });
 var port = process.env.PORT || 3000;
 	http.listen(port);
-console.log("The server connected at localhost");
+console.log("The server connected at localhost 3400");
